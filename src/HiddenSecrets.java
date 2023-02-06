@@ -1,3 +1,12 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author <Rachelle Iloff>
+ *
+ * @since Version 1.0
+ *
+ * created on 2023/02/05
+ */
 import com.drew.imaging.ImageProcessingException;
 import com.drew.metadata.Metadata;
 import com.drew.metadata.Directory;
