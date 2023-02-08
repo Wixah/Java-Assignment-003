@@ -51,18 +51,18 @@ Your assignment is to use Built-In java classes to:
 1. Look up the latitude and longitude coordinates in any online map you can find via Google.
 1. Screenshot the map and add it into the **images** folder of this project.
 1. Last add image markdown below this line to load your map image (Hint: Example image Markdown is just a couple lines above this).
-
+![Ollie the Otter Map](images/Capture.PNG)
 ## PART 3 - Code Scanning and Interpretation
 
 * Look at the getHiddenSecrets method and identify the following parts by editing this README.md and providing your answers:
-    * What is the **access modifer** (e.g. public, private, protected)?
-    * Is it a **Class method** or an **object Instance method**, how do you know?
-    * What is its **return data-type**?
-    * Does it require any **arguments** to call it, and if so, how many **parameters** and of what **data-type**?
+    * What is the **access modifer** (e.g. public, private, protected)? <strong>public</strong>
+    * Is it a **Class method** or an **object Instance method**, how do you know? <strong> I think it's a class method due to the "public class" near the beginning of the code. </strong>
+    * What is its **return data-type**? <strong> void </strong>
+    * Does it require any **arguments** to call it, and if so, how many **parameters** and of what **data-type**? <strong> There were no parameters but we used scanner, string and path as arguments. </strong>
 * Scan line by line through the code and try to determine how it works?
-    * What is familiar to you?
-    * What is not familiar to you?
-    * Do the **for** loops make sense, and if so, tell me what you think they do?
+    * What is familiar to you? <strong> s.outs and println's are familiar </strong>
+    * What is not familiar to you? <strong> I couldn't understand what that tags were for.  </strong>
+    * Do the **for** loops make sense, and if so, tell me what you think they do? <strong> I tried to understand the "fors" one of them seemed to return an error or log an error... Or they seem to be qualifiers. </strong>
 
 ## PART 4 - Turn in
 
